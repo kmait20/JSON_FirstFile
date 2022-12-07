@@ -1,7 +1,6 @@
-[
-    {
-      "id": 1,
-      "name": "Pankaj",
-      "salary": "10000"
-    }
-  ]
+
+{
+    "id": 1,
+    "name": "Ramesh"
+    "Salary": "10000"
+}
